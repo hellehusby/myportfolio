@@ -3,11 +3,11 @@
 body {
 	font: 100%/1.4 Georgia, Garamond, Times New Roman, serif;
     	background-color: #C78283;
-     	margin: 0;
-     	padding: 0;
+     	margin: 30px;
+     	padding: none;
      	color: #2E5266;
 	h1 {
-	  letter-spacing: 4px;
+	  letter-spacing: 5px;
 		text-shadow: 2px 2px 5px #42253B;
 	}
 	h2 {
