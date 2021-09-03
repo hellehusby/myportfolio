@@ -58,6 +58,7 @@ body {
 .footer {
 	background: #C78283;
 	margin: 0px;
+	border: 15px #42253B;
 	float: left;
 	width: 100%;
 	height: 50px;
