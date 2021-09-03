@@ -11,7 +11,7 @@ body {
 	background: #A6CBF5;
 }
 .container {
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 }
 .header {
@@ -25,7 +25,7 @@ body {
 	
 }
 .nav {
-	background: #6283A8;
+	background: #C78283;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -34,7 +34,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #4F3E51;
+	background: #F7F3E3;
 	margin: 0px;
 	float: left;
 	width: 100%;
