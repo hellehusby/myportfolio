@@ -2,20 +2,20 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Georgia, Garamond, Times New Roman, serif;
-    	background-color: #4F3E51;
+    	background-color: #F7F3E3;
      	margin: 0;
      	padding: 0;
-     	color: #E5F58E;
+     	color: #42253B;
 }
 .homePage {
-	background: #A6CBF5;
+	background: #F7F3E3;
 }
 .container {
 	width: 100%;
 	margin: 0 auto;
 }
 .header {
-	background: #4F3E51;
+	background: #F7F3E3;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -42,7 +42,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #6C8D8B;
+	background: #C78283;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -50,10 +50,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #E5F58E;
+     color: #2E5266;
 }
 a:visited {
-     color: #4F3E51;
+     color: #42253B;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
