@@ -8,6 +8,7 @@ body {
      	color: #2E5266;
 	h1 {
 	  letter-spacing: 4px;
+		text-shadow: 2px 2px 5px #2E5266;
 	}
 	h2 {
 	  letter-spacing: 3px;
