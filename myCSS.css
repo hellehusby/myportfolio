@@ -8,7 +8,7 @@ body {
      	color: #2E5266;
 	h1 {
 	  letter-spacing: 4px;
-		text-shadow: 2px 2px 5px #2E5266;
+		text-shadow: 2px 2px 5px #42253B;
 	}
 	h2 {
 	  letter-spacing: 3px;
@@ -63,12 +63,12 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #2E5266;
+     color: #42253B;
 }
 a:visited {
-     color: #2E5266;
+     color: #42253B;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
-	color: #42253B;
+	color: #2E5266;
 }
